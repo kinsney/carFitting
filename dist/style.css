@@ -1,0 +1,87 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  font-size: 62.5%
+}
+
+video {
+  width: 100%;
+  height: 100%;
+  z-index: 999;
+  position: fixed;
+  background-color: white;
+  transition: opacity 2s;
+}
+
+#render, #interact {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right:0;
+  bottom:0;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+#render { z-index: 0; }
+#interact {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+}
+#stats {
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 5;
+}
+
+[v-cloak] {
+  display: none;
+}
+#notification{
+  display: none;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  color: #F5D96C;
+  background: rgba(0,0,0,0.6);
+  transform: translate(-50%,-50%);
+  border-radius: 8px;
+  text-align: center;
+  padding: 20px;
+  font-size: 20px;
+  line-height: 30px;
+  z-index: 100;
+}
+
+.ip-loader{
+  position:absolute;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+  background:white;
+  z-index: 999;
+}
+.ip-loader svg{
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+}
+.ip-loader svg path {
+  fill: none;
+  stroke-width: 6;
+}
+.ip-loader svg path.ip-loader-circlebg {
+  stroke: #ddd;
+}
+.ip-loader svg path.ip-loader-circle {
+  -webkit-transition: stroke-dashoffset 0.2s;
+  transition: stroke-dashoffset 0.2s;
+  stroke: #ef6e7e;
+}

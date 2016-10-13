@@ -1,0 +1,497 @@
+{
+    "14": {
+        "tyre": {
+            "choices": [
+                "14/tyre14.json"
+            ],
+            "area": "tyre/tyre14.json"
+        },
+        "rim": {
+            "choices": [
+                {
+                    "name": "oz",
+                    "parts": [
+                        "14/oz/rim14ozmsw14.json",
+                        "14/oz/rim14ozmsw19.json",
+                        "14/oz/rim14ozmsw20-4.json",
+                        "14/oz/rim14ozmsw22.json",
+                        "14/oz/rim14ozmsw77.json",
+                        "14/oz/rim14ozmsw85.json",
+                        "14/oz/rim14ozsparcopista.json"
+                    ]
+                }
+            ],
+            "color": "#ffffff",
+            "material": "steel",
+            "materials": [
+                "discolor",
+                "electroplate",
+                "matte"
+            ],
+            "area": "rim/14.json",
+            "set": true
+        }
+    },
+    "15": {
+        "tyre": {
+            "choices": [
+                "15/tyre15.json"
+            ],
+            "area": "tyre/tyre15.json"
+        },
+        "rim": {
+            "choices": [
+                {
+                    "name": "oz",
+                    "parts": [
+                        "15/oz/rim15ozmsw11.json",
+                        "15/oz/rim15ozmsw14.json",
+                        "15/oz/rim15ozmsw19.json",
+                        "15/oz/rim15ozmsw20-4.json",
+                        "15/oz/rim15ozmsw22.json",
+                        "15/oz/rim15ozmsw23.json",
+                        "15/oz/rim15ozmsw24.json",
+                        "15/oz/rim15ozmsw77.json",
+                        "15/oz/rim15ozmsw85.json",
+                        "15/oz/rim15ozmsw86.json",
+                        "15/oz/rim15ozsparcoassettogara.json",
+                        "15/oz/rim15ozsparcodrift.json",
+                        "15/oz/rim15ozsparcopista.json",
+                        "15/oz/rim15ozsparcortt.json"
+                    ]
+                }
+            ],
+            "color": "#ffffff",
+            "material": "steel",
+            "materials": [
+                "discolor",
+                "electroplate",
+                "matte"
+            ],
+            "area": "rim/15.json",
+            "set": true
+        }
+    },
+    "16": {
+        "tyre": {
+            "choices": [
+                "16/tyre16.json"
+            ],
+            "area": "tyre/tyre16.json"
+        },
+        "rim": {
+            "choices": [
+                {
+                    "name": "aez",
+                    "parts": [
+                        "16/aez/rim16aezairblader.json",
+                        "16/aez/rim16aezdarkr.json",
+                        "16/aez/rim16aeztacanar.json",
+                        "16/aez/rim16aezvalenciar.json",
+                        "16/aez/rim16aezwaver.json"
+                    ]
+                },
+                {
+                    "name": "bbs",
+                    "parts": [
+                        "16/bbs/rim16bbsr.json"
+                    ]
+                },
+                {
+                    "name": "oz",
+                    "parts": [
+                        "16/oz/rim16ozmsw11.json",
+                        "16/oz/rim16ozmsw14.json",
+                        "16/oz/rim16ozmsw19.json",
+                        "16/oz/rim16ozmsw20-4.json",
+                        "16/oz/rim16ozmsw20-5.json",
+                        "16/oz/rim16ozmsw22.json",
+                        "16/oz/rim16ozmsw23.json",
+                        "16/oz/rim16ozmsw24.json",
+                        "16/oz/rim16ozmsw25.json",
+                        "16/oz/rim16ozmsw26.json",
+                        "16/oz/rim16ozmsw77.json",
+                        "16/oz/rim16ozmsw85.json",
+                        "16/oz/rim16ozmsw86.json",
+                        "16/oz/rim16ozmswcrossover.json",
+                        "16/oz/rim16ozsparcoassettogara.json",
+                        "16/oz/rim16ozsparcodrift.json",
+                        "16/oz/rim16ozsparcopista.json",
+                        "16/oz/rim16ozsparcortt.json",
+                        "16/oz/rim16ozsparcoterra.json"
+                    ]
+                }
+            ],
+            "color": "#ffffff",
+            "material": "steel",
+            "materials": [
+                "discolor",
+                "electroplate",
+                "matte"
+            ],
+            "area": "rim/16.json",
+            "set": true
+        }
+    },
+    "17": {
+        "tyre": {
+            "choices": [
+                "17/tyre17.json"
+            ],
+            "area": "tyre/tyre17.json"
+        },
+        "rim": {
+            "choices": [
+                {
+                    "name": "aez",
+                    "parts": [
+                        "17/aez/rim17aezairblader.json",
+                        "17/aez/rim17aezbridger.json",
+                        "17/aez/rim17aezdarkr.json",
+                        "17/aez/rim17aezexcitedark.json",
+                        "17/aez/rim17aezgenuar.json",
+                        "17/aez/rim17aezlascarr.json",
+                        "17/aez/rim17aezportofinor.json",
+                        "17/aez/rim17aezreefrs.json",
+                        "17/aez/rim17aezsydneyr.json",
+                        "17/aez/rim17aeztacanar.json",
+                        "17/aez/rim17aezwaver.json",
+                        "17/aez/rim17aezvalenciar.json"
+                    ]
+                },
+                {
+                    "name": "bbs",
+                    "parts": [
+                        "17/bbs/rim17bbscs.json",
+                        "17/bbs/rim17bbslm.json",
+                        "17/bbs/rim17bbsr.json"
+                    ]
+                },
+                {
+                    "name": "oz",
+                    "parts": [
+                        "17/oz/rim17msw47.json",
+                        "17/oz/rim17ozmsw11.json",
+                        "17/oz/rim17ozmsw14.json",
+                        "17/oz/rim17ozmsw19.json",
+                        "17/oz/rim17ozmsw20-4.json",
+                        "17/oz/rim17ozmsw20-5.json",
+                        "17/oz/rim17ozmsw22.json",
+                        "17/oz/rim17ozmsw23.json",
+                        "17/oz/rim17ozmsw24.json",
+                        "17/oz/rim17ozmsw25.json",
+                        "17/oz/rim17ozmsw26.json",
+                        "17/oz/rim17ozmsw27.json",
+                        "17/oz/rim17ozmsw45.json",
+                        "17/oz/rim17ozmsw46.json",
+                        "17/oz/rim17ozmsw55.json",
+                        "17/oz/rim17ozmsw77.json",
+                        "17/oz/rim17ozmsw85.json",
+                        "17/oz/rim17ozmsw86.json",
+                        "17/oz/rim17ozmswcrossover.json",
+                        "17/oz/rim17ozsparcoassettogara.json",
+                        "17/oz/rim17ozsparcodrift.json",
+                        "17/oz/rim17ozsparcopista.json",
+                        "17/oz/rim17ozsparcoprocorsa.json",
+                        "17/oz/rim17ozsparcortt.json",
+                        "17/oz/rim17ozsparcotarmac.json",
+                        "17/oz/rim17ozsparcoterra.json"
+                    ]
+                }
+            ],
+            "color": "#ffffff",
+            "material": "steel",
+            "materials": [
+                "discolor",
+                "electroplate",
+                "matte"
+            ],
+            "area": "rim/17.json",
+            "set": true
+        }
+    },
+    "18": {
+        "tyre": {
+            "choices": [
+                "18/tyre18.json"
+            ],
+            "area": "tyre/tyre18.json"
+        },
+        "rim": {
+            "choices": [
+                {
+                    "name": "aez",
+                    "parts": [
+                        "18/aez/rim18aezairblader.json",
+                        "18/aez/rim18aezantiguar.json",
+                        "18/aez/rim18aezbridger.json",
+                        "18/aez/rim18aezexcitedark.json",
+                        "18/aez/rim18aezgenuar.json",
+                        "18/aez/rim18aezlascarr.json",
+                        "18/aez/rim18aezphoenix.json",
+                        "18/aez/rim18aezportofinor.json",
+                        "18/aez/rim18aezreefrs.json",
+                        "18/aez/rim18aezsotaras.json",
+                        "18/aez/rim18aeztacanar.json",
+                        "18/aez/rim18aezyachts.json",
+                        "18/aez/rim18aezsydneyr.json",
+                        "18/aez/rim18aezvalenciar.json"
+                    ]
+                },
+                {
+                    "name": "bbs",
+                    "parts": [
+                        "18/bbs/rim18bbscs.json",
+                        "18/bbs/rim18bbschr.json",
+                        "18/bbs/rim18bbslm.json",
+                        "18/bbs/rim18bbsr.json",
+                        "18/bbs/rim18bbsxa.json"
+                    ]
+                },
+                {
+                    "name": "oz",
+                    "parts": [
+                        "18/oz/rim18msw47.json",
+                        "18/oz/rim18ozmsw11.json",
+                        "18/oz/rim18ozmsw19.json",
+                        "18/oz/rim18ozmsw23.json",
+                        "18/oz/rim18ozmsw25.json",
+                        "18/oz/rim18ozmsw45.json",
+                        "18/oz/rim18ozmsw55.json",
+                        "18/oz/rim18ozsparcortt.json",
+                        "18/oz/rim18ozsparcotarmac.json",
+                        "18/oz/rim18ozmsw14.json",
+                        "18/oz/rim18ozmsw20-5.json",
+                        "18/oz/rim18ozmsw24.json",
+                        "18/oz/rim18ozmsw26.json",
+                        "18/oz/rim18ozmsw27.json",
+                        "18/oz/rim18ozmsw86.json",
+                        "18/oz/rim18ozmswcrossover.json",
+                        "18/oz/rim18ozsparcoassettogara.json",
+                        "18/oz/rim18ozsparcopista.json",
+                        "18/oz/rim18ozsparcoprocorsa.json"
+                    ]
+                }
+            ],
+            "color": "#ffffff",
+            "material": "steel",
+            "materials": [
+                "discolor",
+                "electroplate",
+                "matte"
+            ],
+            "area": "rim/18.json",
+            "set": true
+        }
+    },
+    "19": {
+        "tyre": {
+            "choices": [
+                "19/tyre19.json"
+            ],
+            "area": "tyre/tyre19.json"
+        },
+        "rim": {
+            "choices": [
+                {
+                    "name": "aez",
+                    "parts": [
+                        "19/aez/rim19aezantiguar.json",
+                        "19/aez/rim19aezbridger.json",
+                        "19/aez/rim19aezgenuar.json",
+                        "19/aez/rim19aezlascarr.json",
+                        "19/aez/rim19aezportofinor.json",
+                        "19/aez/rim19aezreefrs.json",
+                        "19/aez/rim19aezsydneyr.json",
+                        "19/aez/rim19aeztacanar.json",
+                        "19/aez/rim19aezvalenciar.json",
+                        "19/aez/rim19aezyachts.json"
+                    ]
+                },
+                {
+                    "name": "antera",
+                    "parts": [
+                        "19/antera/rim19antera501r.json",
+                        "19/antera/rim19antera505r.json",
+                        "19/antera/rim19antera509r.json"
+                    ]
+                },
+                {
+                    "name": "bbs",
+                    "parts": [
+                        "19/bbs/rim19bbschr.json",
+                        "19/bbs/rim19bbscs.json",
+                        "19/bbs/rim19bbscxr.json",
+                        "19/bbs/rim19bbsfir.json",
+                        "19/bbs/rim19bbslm.json",
+                        "19/bbs/rim19bbsr.json",
+                        "19/bbs/rim19bbsrx.json",
+                        "19/bbs/rim19bbsrxr.json",
+                        "19/bbs/rim19bbssv.json",
+                        "19/bbs/rim19bbsxa.json",
+                        "19/bbs/rim19superrs.json"
+                    ]
+                },
+                {
+                    "name": "oz",
+                    "parts": [
+                        "19/oz/rim19msw47.json",
+                        "19/oz/rim19ozmsw20-5.json",
+                        "19/oz/rim19ozmsw24.json",
+                        "19/oz/rim19ozmsw25.json",
+                        "19/oz/rim19ozmsw26.json",
+                        "19/oz/rim19ozmsw55.json",
+                        "19/oz/rim19ozmswcrossover.json"
+                    ]
+                }
+            ],
+            "color": "#ffffff",
+            "material": "steel",
+            "materials": [
+                "discolor",
+                "electroplate",
+                "matte"
+            ],
+            "area": "rim/19.json",
+            "set": true
+        }
+    },
+    "20": {
+        "tyre": {
+            "choices": [
+                "20/tyre20.json"
+            ],
+            "area": "tyre/tyre20.json"
+        },
+        "rim": {
+            "choices": [
+                {
+                    "name": "aez",
+                    "parts": [
+                        "20/aez/rim20aezantiguar.json",
+                        "20/aez/rim20aezbridger.json",
+                        "20/aez/rim20aezlascarr.json",
+                        "20/aez/rim20aezphoenix.json",
+                        "20/aez/rim20aezreefrs.json",
+                        "20/aez/rim20aezsotaras.json",
+                        "20/aez/rim20aezvalenciar.json",
+                        "20/aez/rim20aezyachts.json"
+                    ]
+                },
+                {
+                    "name": "antera",
+                    "parts": [
+                        "20/antera/rim20antera365rs.json",
+                        "20/antera/rim20antera389s.json",
+                        "20/antera/rim20antera503rst.json"
+                    ]
+                },
+                {
+                    "name": "bbs",
+                    "parts": [
+                        "20/bbs/rim20bbschr.json",
+                        "20/bbs/rim20bbscir.json",
+                        "20/bbs/rim20bbscxr.json",
+                        "20/bbs/rim20bbsfir.json",
+                        "20/bbs/rim20bbslm.json",
+                        "20/bbs/rim20bbsrx.json",
+                        "20/bbs/rim20bbsrxr.json",
+                        "20/bbs/rim20bbssv.json",
+                        "20/bbs/rim20bbsxa.json",
+                        "20/bbs/rim20superrs.json",
+                        "20/bbs/rim21bbssv.json"
+                    ]
+                }
+            ],
+            "color": "#ffffff",
+            "material": "steel",
+            "materials": [
+                "discolor",
+                "electroplate",
+                "matte"
+            ],
+            "area": "rim/20.json",
+            "set": true
+        }
+    },
+    "21": {
+        "tyre": {
+            "choices": [
+                "21/tyre21.json"
+            ],
+            "area": "tyre/tyre21.json"
+        },
+        "rim": {
+            "choices": [
+                {
+                    "name": "aez",
+                    "parts": [
+                        "21/aez/rim21aezyachts.json"
+                    ]
+                },
+                {
+                    "name": "antera",
+                    "parts": [
+                        "21/antera/rim21antera389s.json"
+                    ]
+                },
+                {
+                    "name": "bbs",
+                    "parts": [
+                        "21/bbs/rim21bbssv.json"
+                    ]
+                }
+            ],
+            "color": "#ffffff",
+            "material": "steel",
+            "materials": [
+                "discolor",
+                "electroplate",
+                "matte"
+            ],
+            "area": "rim/21.json",
+            "set": true
+        }
+    },
+    "22": {
+        "tyre": {
+            "choices": [
+                "22/tyre22.json"
+            ],
+            "area": "tyre/tyre22.json"
+        },
+        "rim": {
+            "choices": [
+                {
+                    "name": "aez",
+                    "parts": [
+                        "22/aez/rim22aezphoenix.json",
+                        "22/aez/rim22aezsotaras.json",
+                        "22/aez/rim22aezyachts.json"
+                    ]
+                },
+                {
+                    "name": "antera",
+                    "parts": [
+                        "22/antera/rim22antera389s.json"
+                    ]
+                },
+                {
+                    "name": "bbs",
+                    "parts": [
+                        "22/bbs/rim22bbssv.json"
+                    ]
+                }
+            ],
+            "color": "#ffffff",
+            "material": "steel",
+            "materials": [
+                "discolor",
+                "electroplate",
+                "matte"
+            ],
+            "area": "rim/22.json",
+            "set": true
+        }
+    }
+}

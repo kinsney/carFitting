@@ -1,0 +1,628 @@
+{
+  "14": {
+    "tyre": {
+      "choices": [
+        "14/tyre14.json"
+      ],
+      "area": "tyre/tyre14.json",
+      "previews": false
+    },
+    "rim": {
+      "choices": [
+        "14/MSW-14.json",
+        "14/MSW-19.json",
+        "14/MSW-20-4.json",
+        "14/MSW-22.json",
+        "14/MSW-77.json",
+        "14/MSW-85.json",
+        "14/Sparco-Pista.json"
+      ],
+      "color": "#ffffff",
+      "material": "steel",
+      "materials": [
+        "discolor",
+        "electroplate",
+        "matte"
+      ],
+      "previews": [
+        "14/MSW-14-preview.png",
+        "14/MSW-19-preview.png",
+        "14/MSW-20-4-preview.png",
+        "14/MSW-22-preview.png",
+        "14/MSW-77-preview.png",
+        "14/MSW-85-preview.png",
+        "14/Sparco-Pista-preview.png"
+      ],
+      "area": "rim/14.json",
+      "set": true
+    },
+    "caliper": {
+      "choices": [
+        "14/caliper.json"
+      ],
+      "material": "steel",
+      "set": true,
+      "previews": false
+    }
+  },
+  "15": {
+    "tyre": {
+      "choices": [
+        "15/tyre15.json"
+      ],
+      "area": "tyre/tyre15.json",
+      "previews": false
+    },
+    "rim": {
+      "choices": [
+        "15/MSW-11.json",
+        "15/MSW-14.json",
+        "15/MSW-19.json",
+        "15/MSW-20-4.json",
+        "15/MSW-22.json",
+        "15/MSW-23.json",
+        "15/MSW-24.json",
+        "15/MSW-77.json",
+        "15/MSW-85.json",
+        "15/MSW-86.json",
+        "15/Sparco-Drift.json",
+        "15/Sparco-RTT.json",
+        "15/Sparco-Assettogara.json",
+        "15/Sparco-Pista.json"
+      ],
+      "color": "#ffffff",
+      "material": "steel",
+      "materials": [
+        "discolor",
+        "electroplate",
+        "matte"
+      ],
+      "previews": [
+        "15/MSW-11-preview.png",
+        "15/MSW-14-preview.png",
+        "15/MSW-19-preview.png",
+        "15/MSW-20-4-preview.png",
+        "15/MSW-22-preview.png",
+        "15/MSW-23-preview.png",
+        "15/MSW-24-preview.png",
+        "15/MSW-77-preview.png",
+        "15/MSW-85-preview.png",
+        "15/MSW-86-preview.png",
+        "15/Sparco-Drift-preview.png",
+        "15/Sparco-RTT-preview.png",
+        "15/Sparco-Assettogara-preview.png",
+        "15/Sparco-Pista-preview.png"
+      ],
+      "area": "rim/15.json",
+      "set": true
+    },
+    "caliper": {
+      "choices": [
+        "15/caliper.json"
+      ],
+      "material": "steel",
+      "set": true,
+      "previews": false
+    }
+  },
+  "16": {
+    "tyre": {
+      "choices": [
+        "16/tyre16.json"
+      ],
+      "area": "tyre/tyre16.json",
+      "previews": false
+    },
+    "rim": {
+      "choices": [
+        "16/BBS-SR.json",
+        "16/MSW-11.json",
+        "16/MSW-14.json",
+        "16/MSW-19.json",
+        "16/MSW-20-4.json",
+        "16/MSW-22.json",
+        "16/MSW-23.json",
+        "16/MSW-25.json",
+        "16/MSW-26.json",
+        "16/MSW-77.json",
+        "16/AEZ-Valencia.json",
+        "16/MSW-20-5.json",
+        "16/MSW-24.json",
+        "16/MSW-85.json",
+        "16/MSW-86.json",
+        "16/MSW-Crossover.json",
+        "16/Sparco-Assettogara.json",
+        "16/Sparco-Drift.json",
+        "16/Sparco-Pista.json",
+        "16/Sparco-RTT.json",
+        "16/Sparco-Terra.json"
+      ],
+      "color": "#ffffff",
+      "material": "steel",
+      "materials": [
+        "discolor",
+        "electroplate",
+        "matte"
+      ],
+      "previews": [
+        "16/BBS-SR-preview.png",
+        "16/MSW-11-preview.png",
+        "16/MSW-14-preview.png",
+        "16/MSW-19-preview.png",
+        "16/MSW-20-4-preview.png",
+        "16/MSW-22-preview.png",
+        "16/MSW-23-preview.png",
+        "16/MSW-25-preview.png",
+        "16/MSW-26-preview.png",
+        "16/MSW-77-preview.png",
+        "16/AEZ-Valencia-preview.png",
+        "16/MSW-20-5-preview.png",
+        "16/MSW-24-preview.png",
+        "16/MSW-85-preview.png",
+        "16/MSW-86-preview.png",
+        "16/MSW-Crossover-preview.png",
+        "16/Sparco-Assettogara-preview.png",
+        "16/Sparco-Drift-preview.png",
+        "16/Sparco-Pista-preview.png",
+        "16/Sparco-RTT-preview.png",
+        "16/Sparco-Terra-preview.png"
+      ],
+      "area": "rim/16.json",
+      "set": true
+    },
+    "caliper": {
+      "choices": [
+        "16/caliper.json"
+      ],
+      "material": "steel",
+      "set": true,
+      "previews": false
+    }
+  },
+  "17": {
+    "tyre": {
+      "choices": [
+        "17/tyre17.json"
+      ],
+      "area": "tyre/tyre17.json",
+      "previews": false
+    },
+    "rim": {
+      "choices": [
+        "17/AEZ-Cliff.json",
+        "17/AEZ-Genua.json",
+        "17/AEZ-Raise.json",
+        "17/AEZ-Reef.json",
+        "17/AEZ-Straight.json",
+        "17/AEZ-Valencia.json",
+        "17/AEZ-Yacht.json",
+        "17/BBS-CS.json",
+        "17/BBS-LM.json",
+        "17/BBS-SR.json",
+        "17/BBS-SX.json",
+        "17/MSW-11.json",
+        "17/MSW-14.json",
+        "17/MSW-19.json",
+        "17/MSW-20-4.json",
+        "17/MSW-20-5.json",
+        "17/MSW-22.json",
+        "17/MSW-23.json",
+        "17/MSW-24.json",
+        "17/MSW-25.json",
+        "17/MSW-26.json",
+        "17/MSW-27.json",
+        "17/MSW-45.json",
+        "17/MSW-46.json",
+        "17/MSW-47.json",
+        "17/MSW-55.json",
+        "17/MSW-77.json",
+        "17/MSW-85.json",
+        "17/MSW-86.json",
+        "17/MSW-Crossover.json",
+        "17/Sparco-Assettogara.json",
+        "17/Sparco-Drift.json",
+        "17/Sparco-Pista.json",
+        "17/Sparco-Pro-Corsa.json",
+        "17/Sparco-RTT.json",
+        "17/Sparco-Tarmac.json",
+        "17/Sparco-Terra.json"
+      ],
+      "color": "#ffffff",
+      "material": "steel",
+      "materials": [
+        "discolor",
+        "electroplate",
+        "matte"
+      ],
+      "previews": [
+        "17/AEZ-Cliff-preview.png",
+        "17/AEZ-Genua-preview.png",
+        "17/AEZ-Raise-preview.png",
+        "17/AEZ-Reef-preview.png",
+        "17/AEZ-Straight-preview.png",
+        "17/AEZ-Valencia-preview.png",
+        "17/AEZ-Yacht-preview.png",
+        "17/BBS-CS-preview.png",
+        "17/BBS-LM-preview.png",
+        "17/BBS-SR-preview.png",
+        "17/BBS-SX-preview.png",
+        "17/MSW-11-preview.png",
+        "17/MSW-14-preview.png",
+        "17/MSW-19-preview.png",
+        "17/MSW-20-4-preview.png",
+        "17/MSW-20-5-preview.png",
+        "17/MSW-22-preview.png",
+        "17/MSW-23-preview.png",
+        "17/MSW-24-preview.png",
+        "17/MSW-25-preview.png",
+        "17/MSW-26-preview.png",
+        "17/MSW-27-preview.png",
+        "17/MSW-45-preview.png",
+        "17/MSW-46-preview.png",
+        "17/MSW-47-preview.png",
+        "17/MSW-55-preview.png",
+        "17/MSW-77-preview.png",
+        "17/MSW-85-preview.png",
+        "17/MSW-86-preview.png",
+        "17/MSW-Crossover-preview.png",
+        "17/Sparco-Assettogara-preview.png",
+        "17/Sparco-Drift-preview.png",
+        "17/Sparco-Pista-preview.png",
+        "17/Sparco-Pro-Corsa-preview.png",
+        "17/Sparco-RTT-preview.png",
+        "17/Sparco-Tarmac-preview.png",
+        "17/Sparco-Terra-preview.png"
+      ],
+      "area": "rim/17.json",
+      "set": true
+    },
+    "caliper": {
+      "choices": [
+        "17/caliper.json"
+      ],
+      "material": "steel",
+      "set": true,
+      "previews": false
+    }
+  },
+  "18": {
+    "tyre": {
+      "choices": [
+        "18/tyre18.json"
+      ],
+      "area": "tyre/tyre18.json",
+      "previews": false
+    },
+    "rim": {
+      "choices": [
+        "18/AEZ-Antigua.json",
+        "18/AEZ-Cliff.json",
+        "18/AEZ-Genua.json",
+        "18/AEZ-Raise.json",
+        "18/AEZ-Reef.json",
+        "18/AEZ-Straight.json",
+        "18/AEZ-Strike.json",
+        "18/AEZ-Valencia.json",
+        "18/AEZ-Yacht.json",
+        "18/BBS-CH-R.json",
+        "18/BBS-CS.json",
+        "18/BBS-LM.json",
+        "18/BBS-SR.json",
+        "18/BBS-SX.json",
+        "18/BBS-XA.json",
+        "18/MSW-11.json",
+        "18/MSW-14.json",
+        "18/MSW-19.json",
+        "18/MSW-20-5.json",
+        "18/MSW-23.json",
+        "18/MSW-24.json",
+        "18/MSW-25.json",
+        "18/MSW-26.json",
+        "18/MSW-27.json",
+        "18/MSW-45.json",
+        "18/MSW-47.json",
+        "18/MSW-55.json",
+        "18/MSW-86.json",
+        "18/MSW-Crossover.json",
+        "18/Sparco-Assettogara.json",
+        "18/Sparco-Pista.json",
+        "18/Sparco-Pro-Corsa.json",
+        "18/Sparco-RTT.json",
+        "18/Sparco-Tarmac.json",
+        "18/Sparco-Terra.json"
+      ],
+      "color": "#ffffff",
+      "material": "steel",
+      "materials": [
+        "discolor",
+        "electroplate",
+        "matte"
+      ],
+      "previews": [
+        "18/AEZ-Antigua-preview.png",
+        "18/AEZ-Cliff-preview.png",
+        "18/AEZ-Genua-preview.png",
+        "18/AEZ-Raise-preview.png",
+        "18/AEZ-Reef-preview.png",
+        "18/AEZ-Straight-preview.png",
+        "18/AEZ-Strike-preview.png",
+        "18/AEZ-Valencia-preview.png",
+        "18/AEZ-Yacht-preview.png",
+        "18/BBS-CH-R-preview.png",
+        "18/BBS-CS-preview.png",
+        "18/BBS-LM-preview.png",
+        "18/BBS-SR-preview.png",
+        "18/BBS-SX-preview.png",
+        "18/BBS-XA-preview.png",
+        "18/MSW-11-preview.png",
+        "18/MSW-14-preview.png",
+        "18/MSW-19-preview.png",
+        "18/MSW-20-5-preview.png",
+        "18/MSW-23-preview.png",
+        "18/MSW-24-preview.png",
+        "18/MSW-25-preview.png",
+        "18/MSW-26-preview.png",
+        "18/MSW-27-preview.png",
+        "18/MSW-45-preview.png",
+        "18/MSW-47-preview.png",
+        "18/MSW-55-preview.png",
+        "18/MSW-86-preview.png",
+        "18/MSW-Crossover-preview.png",
+        "18/Sparco-Assettogara-preview.png",
+        "18/Sparco-Pista-preview.png",
+        "18/Sparco-Pro-Corsa-preview.png",
+        "18/Sparco-RTT-preview.png",
+        "18/Sparco-Tarmac-preview.png",
+        "18/Sparco-Terra-preview.png"
+      ],
+      "area": "rim/18.json",
+      "set": true
+    },
+    "caliper": {
+      "choices": [
+        "18/caliper.json"
+      ],
+      "material": "steel",
+      "set": true,
+      "previews": false
+    }
+  },
+  "19": {
+    "tyre": {
+      "choices": [
+        "19/tyre19.json"
+      ],
+      "area": "tyre/tyre19.json",
+      "previews": false
+    },
+    "rim": {
+      "choices": [
+        "19/AEZ-Antigua.json",
+        "19/AEZ-Cliff.json",
+        "19/AEZ-Genua.json",
+        "19/AEZ-Raise.json",
+        "19/AEZ-Reef.json",
+        "19/AEZ-Straight.json",
+        "19/AEZ-Strike.json",
+        "19/AEZ-Sydney.json",
+        "19/AEZ-Valencia.json",
+        "19/AEZ-Yacht.json",
+        "19/Antera-501.json",
+        "19/Antera-505.json",
+        "19/Antera-509.json",
+        "19/BBS-CH-R.json",
+        "19/BBS-CS.json",
+        "19/BBS-CX-R.json",
+        "19/BBS-FI.json",
+        "19/BBS-LM.json",
+        "19/BBS-RX.json",
+        "19/BBS-SR.json",
+        "19/BBS-Super-RS.json",
+        "19/BBS-SV.json",
+        "19/BBS-SX.json",
+        "19/BBS-XA.json",
+        "19/MSW-20-5.json",
+        "19/MSW-24.json",
+        "19/MSW-25.json",
+        "19/MSW-26.json",
+        "19/MSW-47.json",
+        "19/MSW-55.json",
+        "19/MSW-Crossover.json"
+      ],
+      "color": "#ffffff",
+      "material": "steel",
+      "materials": [
+        "discolor",
+        "electroplate",
+        "matte"
+      ],
+      "previews": [
+        "19/AEZ-Antigua-preview.png",
+        "19/AEZ-Cliff-preview.png",
+        "19/AEZ-Genua-preview.png",
+        "19/AEZ-Raise-preview.png",
+        "19/AEZ-Reef-preview.png",
+        "19/AEZ-Straight-preview.png",
+        "19/AEZ-Strike-preview.png",
+        "19/AEZ-Sydney-preview.png",
+        "19/AEZ-Valencia-preview.png",
+        "19/AEZ-Yacht-preview.png",
+        "19/Antera-501-preview.png",
+        "19/Antera-505-preview.png",
+        "19/Antera-509-preview.png",
+        "19/BBS-CH-R-preview.png",
+        "19/BBS-CS-preview.png",
+        "19/BBS-CX-R-preview.png",
+        "19/BBS-FI-preview.png",
+        "19/BBS-LM-preview.png",
+        "19/BBS-RX-preview.png",
+        "19/BBS-SR-preview.png",
+        "19/BBS-Super-RS-preview.png",
+        "19/BBS-SV-preview.png",
+        "19/BBS-SX-preview.png",
+        "19/BBS-XA-preview.png",
+        "19/MSW-20-5-preview.png",
+        "19/MSW-24-preview.png",
+        "19/MSW-25-preview.png",
+        "19/MSW-26-preview.png",
+        "19/MSW-47-preview.png",
+        "19/MSW-55-preview.png",
+        "19/MSW-Crossover-preview.png"
+      ],
+      "area": "rim/19.json",
+      "set": true
+    },
+    "caliper": {
+      "choices": [
+        "19/caliper.json"
+      ],
+      "material": "steel",
+      "set": true,
+      "previews": false
+    }
+  },
+  "20": {
+    "tyre": {
+      "choices": [
+        "20/tyre20.json"
+      ],
+      "area": "tyre/tyre20.json",
+      "previews": false
+    },
+    "rim": {
+      "choices": [
+        "20/AEZ-Antigua.json",
+        "20/AEZ-Cliff.json",
+        "20/AEZ-Reef.json",
+        "20/AEZ-Straight.json",
+        "20/AEZ-Strike.json",
+        "20/AEZ-Yacht.json",
+        "20/Antera-365.json",
+        "20/Antera-389.json",
+        "20/Antera-503.json",
+        "20/BBS-CH-R.json",
+        "20/BBS-CI-R.json",
+        "20/BBS-CX-R.json",
+        "20/BBS-FI.json",
+        "20/BBS-LM.json",
+        "20/BBS-RX.json",
+        "20/BBS-Super-RS.json",
+        "20/BBS-SV.json",
+        "20/BBS-XA.json"
+      ],
+      "color": "#ffffff",
+      "material": "steel",
+      "materials": [
+        "discolor",
+        "electroplate",
+        "matte"
+      ],
+      "previews": [
+        "20/AEZ-Antigua-preview.png",
+        "20/AEZ-Cliff-preview.png",
+        "20/AEZ-Reef-preview.png",
+        "20/AEZ-Straight-preview.png",
+        "20/AEZ-Strike-preview.png",
+        "20/AEZ-Yacht-preview.png",
+        "20/Antera-365-preview.png",
+        "20/Antera-389-preview.png",
+        "20/Antera-503-preview.png",
+        "20/BBS-CH-R-preview.png",
+        "20/BBS-CI-R-preview.png",
+        "20/BBS-CX-R-preview.png",
+        "20/BBS-FI-preview.png",
+        "20/BBS-LM-preview.png",
+        "20/BBS-RX-preview.png",
+        "20/BBS-Super-RS-preview.png",
+        "20/BBS-SV-preview.png",
+        "20/BBS-XA-preview.png"
+      ],
+      "area": "rim/20.json",
+      "set": true
+    },
+    "caliper": {
+      "choices": [
+        "20/caliper.json"
+      ],
+      "material": "steel",
+      "set": true,
+      "previews": false
+    }
+  },
+  "21": {
+    "tyre": {
+      "choices": [
+        "21/tyre21.json"
+      ],
+      "area": "tyre/tyre21.json",
+      "previews": false
+    },
+    "rim": {
+      "choices": [
+        "21/Antera-389.json",
+        "21/Antra-509.json",
+        "21/BBS-CH-R.json",
+        "21/BBS-SV.json"
+      ],
+      "color": "#ffffff",
+      "material": "steel",
+      "materials": [
+        "discolor",
+        "electroplate",
+        "matte"
+      ],
+      "previews": [
+        "21/Antera-389-preview.png",
+        "21/Antra-509-preview.png",
+        "21/BBS-CH-R-preview.png",
+        "21/BBS-SV-preview.png"
+      ],
+      "area": "rim/21.json",
+      "set": true
+    },
+    "caliper": {
+      "choices": [
+        "21/caliper.json"
+      ],
+      "material": "steel",
+      "set": true,
+      "previews": false
+    }
+  },
+  "22": {
+    "tyre": {
+      "choices": [
+        "22/tyre22.json"
+      ],
+      "area": "tyre/tyre22.json",
+      "previews": false
+    },
+    "rim": {
+      "choices": [
+        "22/Antera-389.json",
+        "22/BBS-SV.json"
+      ],
+      "color": "#ffffff",
+      "material": "steel",
+      "materials": [
+        "discolor",
+        "electroplate",
+        "matte"
+      ],
+      "previews": [
+        "22/Antera-389-preview.png",
+        "22/BBS-SV-preview.png"
+      ],
+      "area": "rim/22.json",
+      "set": true
+    },
+    "caliper": {
+      "choices": [
+        "22/caliper.json"
+      ],
+      "material": "steel",
+      "set": true,
+      "previews": false
+    }
+  }
+}
