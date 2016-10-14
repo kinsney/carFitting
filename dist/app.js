@@ -58464,7 +58464,7 @@
 	  var hotAPI = require("vue-hot-reload-api")
 	  hotAPI.install(require("vue"), true)
 	  if (!hotAPI.compatible) return
-	  var id = "/Users/bradpitt/Documents/front/crazy-tuning-new/src/interact/index.vue"
+	  var id = "/Users/bradpitt/Documents/front/carFitting/src/interact/index.vue"
 	  if (!module.hot.data) {
 	    hotAPI.createRecord(id, module.exports)
 	  } else {
@@ -58488,8 +58488,8 @@
 	if(false) {
 		// When the styles change, update the <style> tags
 		if(!content.locals) {
-			module.hot.accept("!!./../../node_modules/css-loader/index.js!./../../node_modules/vue-loader/lib/style-rewriter.js?id=_v-0776ab87&file=index.vue!./../../node_modules/vue-loader/lib/selector.js?type=style&index=0!./index.vue", function() {
-				var newContent = require("!!./../../node_modules/css-loader/index.js!./../../node_modules/vue-loader/lib/style-rewriter.js?id=_v-0776ab87&file=index.vue!./../../node_modules/vue-loader/lib/selector.js?type=style&index=0!./index.vue");
+			module.hot.accept("!!./../../node_modules/css-loader/index.js!./../../node_modules/vue-loader/lib/style-rewriter.js?id=_v-72d5f8e0&file=index.vue!./../../node_modules/vue-loader/lib/selector.js?type=style&index=0!./index.vue", function() {
+				var newContent = require("!!./../../node_modules/css-loader/index.js!./../../node_modules/vue-loader/lib/style-rewriter.js?id=_v-72d5f8e0&file=index.vue!./../../node_modules/vue-loader/lib/selector.js?type=style&index=0!./index.vue");
 				if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
 				update(newContent);
 			});
@@ -58984,7 +58984,7 @@
 	  var hotAPI = require("vue-hot-reload-api")
 	  hotAPI.install(require("vue"), true)
 	  if (!hotAPI.compatible) return
-	  var id = "/Users/bradpitt/Documents/front/crazy-tuning-new/src/interact/selector/index.vue"
+	  var id = "/Users/bradpitt/Documents/front/carFitting/src/interact/selector/index.vue"
 	  if (!module.hot.data) {
 	    hotAPI.createRecord(id, module.exports)
 	  } else {
@@ -59008,8 +59008,8 @@
 	if(false) {
 		// When the styles change, update the <style> tags
 		if(!content.locals) {
-			module.hot.accept("!!./../../../node_modules/css-loader/index.js!./../../../node_modules/vue-loader/lib/style-rewriter.js?id=_v-71759086&file=index.vue!./../../../node_modules/vue-loader/lib/selector.js?type=style&index=0!./index.vue", function() {
-				var newContent = require("!!./../../../node_modules/css-loader/index.js!./../../../node_modules/vue-loader/lib/style-rewriter.js?id=_v-71759086&file=index.vue!./../../../node_modules/vue-loader/lib/selector.js?type=style&index=0!./index.vue");
+			module.hot.accept("!!./../../../node_modules/css-loader/index.js!./../../../node_modules/vue-loader/lib/style-rewriter.js?id=_v-895642f8&file=index.vue!./../../../node_modules/vue-loader/lib/selector.js?type=style&index=0!./index.vue", function() {
+				var newContent = require("!!./../../../node_modules/css-loader/index.js!./../../../node_modules/vue-loader/lib/style-rewriter.js?id=_v-895642f8&file=index.vue!./../../../node_modules/vue-loader/lib/selector.js?type=style&index=0!./index.vue");
 				if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
 				update(newContent);
 			});
@@ -59108,18 +59108,15 @@
 				},
 				{
 					"id": "a4",
-					"html": "奥迪A4L<br><small>Audi A4L</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "奥迪A4L<br><small>Audi A4L</small>"
 				},
 				{
 					"id": "a5",
-					"html": "奥迪A5<br><small>Audi A5</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "奥迪A5<br><small>Audi A5</small>"
 				},
 				{
 					"id": "tt",
-					"html": "奥迪TT<br><small>Audi TT</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "奥迪TT<br><small>Audi TT</small>"
 				}
 			]
 		},
@@ -59133,8 +59130,7 @@
 				},
 				{
 					"id": "bmw5",
-					"html": "宝马5系<br><small>BMW 5-Serie</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "宝马5系<br><small>BMW 5-Serie</small>"
 				}
 			]
 		},
@@ -59148,18 +59144,15 @@
 				},
 				{
 					"id": "macan",
-					"html": "Macan<br><small>Macan</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "Macan<br><small>Macan</small>"
 				},
 				{
 					"id": "cayenne",
-					"html": "卡宴<br><small>Cayenne</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "卡宴<br><small>Cayenne</small>"
 				},
 				{
 					"id": "cayenne2015",
-					"html": "卡宴 2015<br><small>Cayenne 2015</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "卡宴 2015<br><small>Cayenne 2015</small>"
 				}
 			]
 		},
@@ -59169,17 +59162,15 @@
 			"vehicles": [
 				{
 					"id": "c",
-					"html": "奔驰C级<br><small>MB C-Class</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "奔驰C级<br><small>MB C-Class</small>"
 				},
 				{
 					"id": "e",
-					"html": "奔驰E级<br><small>MB E-Class</small><img class='lock' src='icons/lock.png'>"
+					"html": "奔驰E级<br><small>MB E-Class</small>"
 				},
 				{
 					"id": "cla",
-					"html": "奔驰CLA级<br><small>MB CLA-Class</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "奔驰CLA级<br><small>MB CLA-Class</small>"
 				}
 			]
 		},
@@ -59189,13 +59180,11 @@
 			"vehicles": [
 				{
 					"id": "civic",
-					"html": "思域<br><small>Civic</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "思域<br><small>Civic</small>"
 				},
 				{
 					"id": "spirior",
-					"html": "思铂睿<br><small>Spirior</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "思铂睿<br><small>Spirior</small>"
 				}
 			]
 		},
@@ -59205,8 +59194,7 @@
 			"vehicles": [
 				{
 					"id": "regal",
-					"html": "君威<br><small>Regal</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "君威<br><small>Regal</small>"
 				}
 			]
 		},
@@ -59216,23 +59204,19 @@
 			"vehicles": [
 				{
 					"id": "golf",
-					"html": "高尔夫<br><small>Golf</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "高尔夫<br><small>Golf</small>"
 				},
 				{
 					"id": "cc",
-					"html": "CC<br><small>CC</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "CC<br><small>CC</small>"
 				},
 				{
 					"id": "beetle",
-					"html": "甲壳虫<br><small>Beetle</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "甲壳虫<br><small>Beetle</small>"
 				},
 				{
 					"id": "scirocco",
-					"html": "尚酷<br><small>Scirocco</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "尚酷<br><small>Scirocco</small>"
 				}
 			]
 		},
@@ -59242,13 +59226,11 @@
 			"vehicles": [
 				{
 					"id": "reiz",
-					"html": "锐志<br><small>Reiz</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "锐志<br><small>Reiz</small>"
 				},
 				{
 					"id": "camry",
-					"html": "凯美瑞<br><small>Camry</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "凯美瑞<br><small>Camry</small>"
 				}
 			]
 		},
@@ -59258,13 +59240,11 @@
 			"vehicles": [
 				{
 					"id": "mondeo",
-					"html": "蒙迪欧<br><small>Mondeo</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "蒙迪欧<br><small>Mondeo</small>"
 				},
 				{
 					"id": "focus",
-					"html": "福克斯<br><small>Focus</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "福克斯<br><small>Focus</small>"
 				}
 			]
 		},
@@ -59274,13 +59254,11 @@
 			"vehicles": [
 				{
 					"id": "xf",
-					"html": "XF<br><small>XF</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "XF<br><small>XF</small>"
 				},
 				{
 					"id": "xj",
-					"html": "XJ<br><small>XJ</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "XJ<br><small>XJ</small>"
 				}
 			]
 		},
@@ -59290,13 +59268,11 @@
 			"vehicles": [
 				{
 					"id": "ats",
-					"html": "ATS-L<br><small>ATS-L</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "ATS-L<br><small>ATS-L</small>"
 				},
 				{
 					"id": "cts",
-					"html": "CTS<br><small>CTS</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "CTS<br><small>CTS</small>"
 				}
 			]
 		},
@@ -59306,13 +59282,11 @@
 			"vehicles": [
 				{
 					"id": "ct",
-					"html": "CT<br><small>CT</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "CT<br><small>CT</small>"
 				},
 				{
 					"id": "is",
-					"html": "IS<br><small>IS</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "IS<br><small>IS</small>"
 				}
 			]
 		},
@@ -59322,8 +59296,7 @@
 			"vehicles": [
 				{
 					"id": "evoque",
-					"html": "极光<br><small>Evoque</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "极光<br><small>Evoque</small>"
 				}
 			]
 		},
@@ -59333,13 +59306,11 @@
 			"vehicles": [
 				{
 					"id": "mazda6",
-					"html": "马自达6<br><small>Mazda 6</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "马自达6<br><small>Mazda 6</small>"
 				},
 				{
 					"id": "atenza",
-					"html": "阿特兹<br><small>Atenza</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "阿特兹<br><small>Atenza</small>"
 				}
 			]
 		},
@@ -59349,8 +59320,7 @@
 			"vehicles": [
 				{
 					"id": "ghibili",
-					"html": "Ghibili<br><small>Ghibili</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "Ghibili<br><small>Ghibili</small>"
 				}
 			]
 		},
@@ -59360,13 +59330,11 @@
 			"vehicles": [
 				{
 					"id": "cooper",
-					"html": "Clubman<br><small>Clubman</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "Clubman<br><small>Clubman</small>"
 				},
 				{
 					"id": "countryman",
-					"html": "Countryman<br><small>Countryman</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "Countryman<br><small>Countryman</small>"
 				}
 			]
 		},
@@ -59376,8 +59344,7 @@
 			"vehicles": [
 				{
 					"id": "k5",
-					"html": "K5<br><small>K5</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "K5<br><small>K5</small>"
 				}
 			]
 		},
@@ -59387,8 +59354,7 @@
 			"vehicles": [
 				{
 					"id": "gtr",
-					"html": "GT-R<br><small>GT-R</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "GT-R<br><small>GT-R</small>"
 				}
 			]
 		},
@@ -59398,8 +59364,7 @@
 			"vehicles": [
 				{
 					"id": "coupe",
-					"html": "酷派<br><small>Coupe</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "酷派<br><small>Coupe</small>"
 				}
 			]
 		},
@@ -59409,8 +59374,7 @@
 			"vehicles": [
 				{
 					"id": "lancer",
-					"html": "翼神<br><small>Lancer EX</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "翼神<br><small>Lancer EX</small>"
 				}
 			]
 		},
@@ -59420,8 +59384,7 @@
 			"vehicles": [
 				{
 					"id": "smart",
-					"html": "For Two<br><small>For Two</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "For Two<br><small>For Two</small>"
 				}
 			]
 		},
@@ -59431,8 +59394,7 @@
 			"vehicles": [
 				{
 					"id": "sonata",
-					"html": "索纳塔9<br><small>Sonata 9</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "索纳塔9<br><small>Sonata 9</small>"
 				}
 			]
 		},
@@ -59442,13 +59404,11 @@
 			"vehicles": [
 				{
 					"id": "cruze",
-					"html": "科鲁兹<br><small>Cruze</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "科鲁兹<br><small>Cruze</small>"
 				},
 				{
 					"id": "malibu",
-					"html": "迈锐宝<br><small>Malibu</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "迈锐宝<br><small>Malibu</small>"
 				}
 			]
 		},
@@ -59458,8 +59418,7 @@
 			"vehicles": [
 				{
 					"id": "q50l",
-					"html": "Q50L<br><small>Q50L</small><img class='lock' src='icons/lock.png'>",
-					"lock": true
+					"html": "Q50L<br><small>Q50L</small>"
 				}
 			]
 		}
@@ -59478,7 +59437,7 @@
 	  var hotAPI = require("vue-hot-reload-api")
 	  hotAPI.install(require("vue"), true)
 	  if (!hotAPI.compatible) return
-	  var id = "/Users/bradpitt/Documents/front/crazy-tuning-new/src/interact/selector/scroller/index.vue"
+	  var id = "/Users/bradpitt/Documents/front/carFitting/src/interact/selector/scroller/index.vue"
 	  if (!module.hot.data) {
 	    hotAPI.createRecord(id, module.exports)
 	  } else {
@@ -59502,8 +59461,8 @@
 	if(false) {
 		// When the styles change, update the <style> tags
 		if(!content.locals) {
-			module.hot.accept("!!./../../../../node_modules/css-loader/index.js!./../../../../node_modules/vue-loader/lib/style-rewriter.js?id=_v-0a01da3c&file=index.vue!./../../../../node_modules/vue-loader/lib/selector.js?type=style&index=0!./index.vue", function() {
-				var newContent = require("!!./../../../../node_modules/css-loader/index.js!./../../../../node_modules/vue-loader/lib/style-rewriter.js?id=_v-0a01da3c&file=index.vue!./../../../../node_modules/vue-loader/lib/selector.js?type=style&index=0!./index.vue");
+			module.hot.accept("!!./../../../../node_modules/css-loader/index.js!./../../../../node_modules/vue-loader/lib/style-rewriter.js?id=_v-a77dc80a&file=index.vue!./../../../../node_modules/vue-loader/lib/selector.js?type=style&index=0!./index.vue", function() {
+				var newContent = require("!!./../../../../node_modules/css-loader/index.js!./../../../../node_modules/vue-loader/lib/style-rewriter.js?id=_v-a77dc80a&file=index.vue!./../../../../node_modules/vue-loader/lib/selector.js?type=style&index=0!./index.vue");
 				if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
 				update(newContent);
 			});
@@ -61723,7 +61682,7 @@
 	  var hotAPI = require("vue-hot-reload-api")
 	  hotAPI.install(require("vue"), true)
 	  if (!hotAPI.compatible) return
-	  var id = "/Users/bradpitt/Documents/front/crazy-tuning-new/src/interact/remolder/index.vue"
+	  var id = "/Users/bradpitt/Documents/front/carFitting/src/interact/remolder/index.vue"
 	  if (!module.hot.data) {
 	    hotAPI.createRecord(id, module.exports)
 	  } else {
@@ -61782,7 +61741,7 @@
 	  var hotAPI = require("vue-hot-reload-api")
 	  hotAPI.install(require("vue"), true)
 	  if (!hotAPI.compatible) return
-	  var id = "/Users/bradpitt/Documents/front/crazy-tuning-new/src/interact/remolder/parts/index.vue"
+	  var id = "/Users/bradpitt/Documents/front/carFitting/src/interact/remolder/parts/index.vue"
 	  if (!module.hot.data) {
 	    hotAPI.createRecord(id, module.exports)
 	  } else {
@@ -61806,8 +61765,8 @@
 	if(false) {
 		// When the styles change, update the <style> tags
 		if(!content.locals) {
-			module.hot.accept("!!./../../../../node_modules/css-loader/index.js!./../../../../node_modules/vue-loader/lib/style-rewriter.js?id=_v-4fb3cfe9&file=index.vue!./../../../../node_modules/vue-loader/lib/selector.js?type=style&index=0!./index.vue", function() {
-				var newContent = require("!!./../../../../node_modules/css-loader/index.js!./../../../../node_modules/vue-loader/lib/style-rewriter.js?id=_v-4fb3cfe9&file=index.vue!./../../../../node_modules/vue-loader/lib/selector.js?type=style&index=0!./index.vue");
+			module.hot.accept("!!./../../../../node_modules/css-loader/index.js!./../../../../node_modules/vue-loader/lib/style-rewriter.js?id=_v-25e70570&file=index.vue!./../../../../node_modules/vue-loader/lib/selector.js?type=style&index=0!./index.vue", function() {
+				var newContent = require("!!./../../../../node_modules/css-loader/index.js!./../../../../node_modules/vue-loader/lib/style-rewriter.js?id=_v-25e70570&file=index.vue!./../../../../node_modules/vue-loader/lib/selector.js?type=style&index=0!./index.vue");
 				if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
 				update(newContent);
 			});
@@ -62256,7 +62215,7 @@
 	  var hotAPI = require("vue-hot-reload-api")
 	  hotAPI.install(require("vue"), true)
 	  if (!hotAPI.compatible) return
-	  var id = "/Users/bradpitt/Documents/front/crazy-tuning-new/src/interact/remolder/materials/index.vue"
+	  var id = "/Users/bradpitt/Documents/front/carFitting/src/interact/remolder/materials/index.vue"
 	  if (!module.hot.data) {
 	    hotAPI.createRecord(id, module.exports)
 	  } else {
@@ -62280,8 +62239,8 @@
 	if(false) {
 		// When the styles change, update the <style> tags
 		if(!content.locals) {
-			module.hot.accept("!!./../../../../node_modules/css-loader/index.js!./../../../../node_modules/vue-loader/lib/style-rewriter.js?id=_v-b0e1c196&file=index.vue!./../../../../node_modules/vue-loader/lib/selector.js?type=style&index=0!./index.vue", function() {
-				var newContent = require("!!./../../../../node_modules/css-loader/index.js!./../../../../node_modules/vue-loader/lib/style-rewriter.js?id=_v-b0e1c196&file=index.vue!./../../../../node_modules/vue-loader/lib/selector.js?type=style&index=0!./index.vue");
+			module.hot.accept("!!./../../../../node_modules/css-loader/index.js!./../../../../node_modules/vue-loader/lib/style-rewriter.js?id=_v-1e8e393c&file=index.vue!./../../../../node_modules/vue-loader/lib/selector.js?type=style&index=0!./index.vue", function() {
+				var newContent = require("!!./../../../../node_modules/css-loader/index.js!./../../../../node_modules/vue-loader/lib/style-rewriter.js?id=_v-1e8e393c&file=index.vue!./../../../../node_modules/vue-loader/lib/selector.js?type=style&index=0!./index.vue");
 				if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
 				update(newContent);
 			});
@@ -63038,7 +62997,7 @@
 	  var hotAPI = require("vue-hot-reload-api")
 	  hotAPI.install(require("vue"), true)
 	  if (!hotAPI.compatible) return
-	  var id = "/Users/bradpitt/Documents/front/crazy-tuning-new/src/interact/remolder/materials/color.vue"
+	  var id = "/Users/bradpitt/Documents/front/carFitting/src/interact/remolder/materials/color.vue"
 	  if (!module.hot.data) {
 	    hotAPI.createRecord(id, module.exports)
 	  } else {
@@ -63062,8 +63021,8 @@
 	if(false) {
 		// When the styles change, update the <style> tags
 		if(!content.locals) {
-			module.hot.accept("!!./../../../../node_modules/css-loader/index.js!./../../../../node_modules/vue-loader/lib/style-rewriter.js?id=_v-4dc37546&file=color.vue!./../../../../node_modules/vue-loader/lib/selector.js?type=style&index=0!./color.vue", function() {
-				var newContent = require("!!./../../../../node_modules/css-loader/index.js!./../../../../node_modules/vue-loader/lib/style-rewriter.js?id=_v-4dc37546&file=color.vue!./../../../../node_modules/vue-loader/lib/selector.js?type=style&index=0!./color.vue");
+			module.hot.accept("!!./../../../../node_modules/css-loader/index.js!./../../../../node_modules/vue-loader/lib/style-rewriter.js?id=_v-767ae166&file=color.vue!./../../../../node_modules/vue-loader/lib/selector.js?type=style&index=0!./color.vue", function() {
+				var newContent = require("!!./../../../../node_modules/css-loader/index.js!./../../../../node_modules/vue-loader/lib/style-rewriter.js?id=_v-767ae166&file=color.vue!./../../../../node_modules/vue-loader/lib/selector.js?type=style&index=0!./color.vue");
 				if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
 				update(newContent);
 			});
@@ -63800,7 +63759,7 @@
 	  var hotAPI = require("vue-hot-reload-api")
 	  hotAPI.install(require("vue"), true)
 	  if (!hotAPI.compatible) return
-	  var id = "/Users/bradpitt/Documents/front/crazy-tuning-new/src/interact/remolder/materials/proColor.vue"
+	  var id = "/Users/bradpitt/Documents/front/carFitting/src/interact/remolder/materials/proColor.vue"
 	  if (!module.hot.data) {
 	    hotAPI.createRecord(id, module.exports)
 	  } else {
@@ -64369,7 +64328,7 @@
 	  var hotAPI = require("vue-hot-reload-api")
 	  hotAPI.install(require("vue"), true)
 	  if (!hotAPI.compatible) return
-	  var id = "/Users/bradpitt/Documents/front/crazy-tuning-new/src/interact/remolder/materials/specular.vue"
+	  var id = "/Users/bradpitt/Documents/front/carFitting/src/interact/remolder/materials/specular.vue"
 	  if (!module.hot.data) {
 	    hotAPI.createRecord(id, module.exports)
 	  } else {
@@ -64393,8 +64352,8 @@
 	if(false) {
 		// When the styles change, update the <style> tags
 		if(!content.locals) {
-			module.hot.accept("!!./../../../../node_modules/css-loader/index.js!./../../../../node_modules/vue-loader/lib/style-rewriter.js?id=_v-827ad0a0&file=specular.vue!./../../../../node_modules/vue-loader/lib/selector.js?type=style&index=0!./specular.vue", function() {
-				var newContent = require("!!./../../../../node_modules/css-loader/index.js!./../../../../node_modules/vue-loader/lib/style-rewriter.js?id=_v-827ad0a0&file=specular.vue!./../../../../node_modules/vue-loader/lib/selector.js?type=style&index=0!./specular.vue");
+			module.hot.accept("!!./../../../../node_modules/css-loader/index.js!./../../../../node_modules/vue-loader/lib/style-rewriter.js?id=_v-7f386c49&file=specular.vue!./../../../../node_modules/vue-loader/lib/selector.js?type=style&index=0!./specular.vue", function() {
+				var newContent = require("!!./../../../../node_modules/css-loader/index.js!./../../../../node_modules/vue-loader/lib/style-rewriter.js?id=_v-7f386c49&file=specular.vue!./../../../../node_modules/vue-loader/lib/selector.js?type=style&index=0!./specular.vue");
 				if(typeof newContent === 'string') newContent = [[module.id, newContent, '']];
 				update(newContent);
 			});
@@ -64502,7 +64461,7 @@
 	  var hotAPI = require("vue-hot-reload-api")
 	  hotAPI.install(require("vue"), true)
 	  if (!hotAPI.compatible) return
-	  var id = "/Users/bradpitt/Documents/front/crazy-tuning-new/src/interact/remolder/materials/spec_color.vue"
+	  var id = "/Users/bradpitt/Documents/front/carFitting/src/interact/remolder/materials/spec_color.vue"
 	  if (!module.hot.data) {
 	    hotAPI.createRecord(id, module.exports)
 	  } else {
@@ -65000,7 +64959,7 @@
 	  var hotAPI = require("vue-hot-reload-api")
 	  hotAPI.install(require("vue"), true)
 	  if (!hotAPI.compatible) return
-	  var id = "/Users/bradpitt/Documents/front/crazy-tuning-new/src/interact/remolder/materials/spec_pro_color.vue"
+	  var id = "/Users/bradpitt/Documents/front/carFitting/src/interact/remolder/materials/spec_pro_color.vue"
 	  if (!module.hot.data) {
 	    hotAPI.createRecord(id, module.exports)
 	  } else {
