@@ -58849,7 +58849,6 @@
 	//       <button :class="{ active:store.rotation }" @click="store.rotation = !store.rotation"></button>
 	//       <button :class="{ active:store.music }" @click="store.music = !store.music"></button>
 	//       <button class="active" @click="close()"></button>
-	//       <!-- <button class="logo"><a href="http://sya.org.cn"><img class="slogan" src="./slogan.png"><img class="support"src="./support.png"></a></button> -->
 	//     </div>
 	//     <vehicle-selector v-if="current == 'selector'"></vehicle-selector>
 	//     <vehicle-remolder v-if="current == 'remolder'"></vehicle-remolder>
@@ -65307,7 +65306,7 @@
 /* 138 */
 /***/ function(module, exports) {
 
-	module.exports = "<div class=\"v-interact\" @click=\"click()\">\n    <div class=\"v-buttons\">\n      <button :class=\"{ active: current == 'selector' }\" @click.stop=\"toggleCurrent('selector')\"></button>\n      <button class=\"active\" @click.stop=\"changeSituation()\"></button>\n      <button :class=\"{ active: current == 'remolder' }\" @click.stop=\"toggleCurrent('remolder')\"></button>\n      <button :class=\"{ active:store.rotation }\" @click=\"store.rotation = !store.rotation\"></button>\n      <button :class=\"{ active:store.music }\" @click=\"store.music = !store.music\"></button>\n      <button class=\"active\" @click=\"close()\"></button>\n      <!-- <button class=\"logo\"><a href=\"http://sya.org.cn\"><img class=\"slogan\" src=\"./slogan.png\"><img class=\"support\"src=\"./support.png\"></a></button> -->\n    </div>\n    <vehicle-selector v-if=\"current == 'selector'\"></vehicle-selector>\n    <vehicle-remolder v-if=\"current == 'remolder'\"></vehicle-remolder>\n  </div>";
+	module.exports = "<div class=\"v-interact\" @click=\"click()\">\n    <div class=\"v-buttons\">\n      <button :class=\"{ active: current == 'selector' }\" @click.stop=\"toggleCurrent('selector')\"></button>\n      <button class=\"active\" @click.stop=\"changeSituation()\"></button>\n      <button :class=\"{ active: current == 'remolder' }\" @click.stop=\"toggleCurrent('remolder')\"></button>\n      <button :class=\"{ active:store.rotation }\" @click=\"store.rotation = !store.rotation\"></button>\n      <button :class=\"{ active:store.music }\" @click=\"store.music = !store.music\"></button>\n      <button class=\"active\" @click=\"close()\"></button>\n    </div>\n    <vehicle-selector v-if=\"current == 'selector'\"></vehicle-selector>\n    <vehicle-remolder v-if=\"current == 'remolder'\"></vehicle-remolder>\n  </div>";
 
 /***/ }
 /******/ ]);
